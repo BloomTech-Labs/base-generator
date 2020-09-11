@@ -1,6 +1,6 @@
 {
   "name": "@lambdalabs/base-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A yeoman base class used by labs generators",
   "main": "baseGenerator.js",
   "scripts": {
