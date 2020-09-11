@@ -1,6 +1,6 @@
 {
   "name": "@lambdalabs/base-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A yeoman base class used by labs generators",
   "main": "baseGenerator.js",
   "scripts": {
@@ -10,15 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Lambda-School-Labs/base-generator.git"
   },
+  "homepage": "https://github.com/Lambda-School-Labs/base-generator",
+  "bugs": "https://github.com/Lambda-School-Labs/base-generator/issues",
   "keywords": [
     "yeoman"
   ],
   "author": "Lambda Labs",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Lambda-School-Labs/base-generator/issues"
-  },
-  "homepage": "https://github.com/Lambda-School-Labs/base-generator#readme",
   "dependencies": {
     "yeoman-generator": "^4.12.0"
   }
