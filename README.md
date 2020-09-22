@@ -16,3 +16,9 @@ module.exports = class extends BaseGenerator {
   }
 }
 ```
+
+## publish npmjs package
+
+- update package.json version
+- add a git tag with the version number `git tag v0.9.30 -m "release note"`
+- push repo and tags `git push && git push --tags`
